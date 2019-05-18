@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Categoría</string>
+    <string name="Terminos"><u>Terminos y Condiciones</u></string>
+    <string name="ingreseAqui"><u>Ingrese Aqui</u></string>
+    <string name="web_client_id"><u>fanny123</u></string>
+
+    <string name="log_out">Log Out</string>
+    <string name="revoke">Revoke</string>
+    <string name="not_close_session">No se pudo cerrar sesión</string>
+    <string name="not_revoke">No se pudo revocar el acceso</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_usuario">Usuario</string>
+    <string name="menu_categorias">Categorias</string>
+    <string name="menu_ingresos">Ingresos</string>
+    <string name="menu_egresos">Egresos</string>
+    <string name="menu_reportes">Reportes</string>
+    <string name="menu_EgresosPendiente">Egresos Pendientes</string>
+    <string name="Menu_IngresosPendiente">Ingresos Pendientes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id" translatable="false">2123496067700054</string>
+</resources>
